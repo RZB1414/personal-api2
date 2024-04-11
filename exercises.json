@@ -1,0 +1,106 @@
+[
+    {
+        "id": "1",
+        "date": "2024-01-01",
+        "exercise": "Squats",
+        "sets": 3,
+        "reps": 10,
+        "weight": 100
+    },
+    {
+        "id": "1",
+        "date": "2024-01-01",
+        "exercise": "Biceps",
+        "sets": 3,
+        "reps": 10,
+        "weight": 150
+    },
+    {
+        "id": "1",
+        "date": "2024-01-02",
+        "exercise": "Squats",
+        "sets": 3,
+        "reps": 10,
+        "weight": 90
+    },
+    {
+        "id": "1",
+        "date": "2024-01-01",
+        "exercise": "Bench Press",
+        "sets": 3,
+        "reps": 10,
+        "weight": 100
+    },
+    {
+        "id": "1",
+        "date": "2024-01-01",
+        "exercise": "Deadlift",
+        "sets": 3,
+        "reps": 10,
+        "weight": 150
+    },
+    {
+        "id": "1",
+        "date": "2024-01-02",
+        "exercise": "Triceps",
+        "sets": 30,
+        "reps": 10,
+        "weight": 90
+    },
+    {
+        "id": "1",
+        "date": "2024-01-02",
+        "exercise": "Biceps",
+        "sets": 3,
+        "reps": 10,
+        "weight": 200
+    },
+    {
+        "id": "1",
+        "date": "2024-01-03",
+        "exercise": "Squats",
+        "sets": 3,
+        "reps": 10,
+        "weight": 130
+    },
+    {
+        "id": "1",
+        "date": "2024-01-03",
+        "exercise": "Biceps",
+        "sets": 3,
+        "reps": 10,
+        "weight": 150
+    },
+    {
+        "id": "1",
+        "date": "2024-01-04",
+        "exercise": "Squats",
+        "sets": 3,
+        "reps": 10,
+        "weight": 90
+    },
+    {
+        "id": "2",
+        "date": "2022-01-02",
+        "exercise": "Bench Press",
+        "sets": 4,
+        "reps": 8,
+        "weight": 80
+    },
+    {
+        "id": "3",
+        "date": "2022-01-03",
+        "exercise": "Deadlift",
+        "sets": 3,
+        "reps": 6,
+        "weight": 120
+    },
+    {
+        "id": "4",
+        "date": "2022-01-03",
+        "exercise": "Triceps",
+        "sets": 4,
+        "reps": 5,
+        "weight": 140
+    }
+]

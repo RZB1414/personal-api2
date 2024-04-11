@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Arnold maromba",
+        "lastName": "Schwarzenegger",
+        "objective": "Crescer mais um pouco",
+        "email": "terminator@gmail.com",
+        "phone": "123-456-7890",
+        "address": "320, Durateston Street, Florida",
+        "frequency": 100
+    },
+    {
+        "id": "2",
+        "name": "Jojo",
+        "lastName": "Todinho",
+        "objective": "Perder 50kg em 1 semana",
+        "email": "jojoXbacon@gmail.com",
+        "phone": "123-456-7890",
+        "address": "150, Rua do Lanche, Rio de Janeiro",
+        "frequency": 20
+    },
+    {
+        "id": "3",
+        "name": "Capa",
+        "lastName": "Do Biscoito",
+        "objective": "Ficar monxtro",
+        "email": "vareta@gmail.com",
+        "phone": "123-456-7890",
+        "address": "123, Rua da Lagartixa Tropical, Uberlândia",
+        "frequency": 70
+    }
+]
